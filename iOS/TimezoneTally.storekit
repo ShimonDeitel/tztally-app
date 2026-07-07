@@ -1,0 +1,42 @@
+{
+  "identifier": "tztally",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [
+    {
+      "id": "21500000",
+      "localizations": [],
+      "name": "Timezone Tally Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "tztally_pro_monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Unlimited entries and a multi-city clock comparison view.",
+              "displayName": "Timezone Tally Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "tztally_pro_monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Timezone Tally Pro Monthly",
+          "subscriptionGroupID": "21500000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
